@@ -156,11 +156,6 @@ section {
   background: #fce138;
 }
 
-.step h3 {
-  color: #024e76;
-  font-size: 46px;
-}
-
 .step {
   margin: 50px auto;
   padding-bottom: 50px;
@@ -173,6 +168,8 @@ section {
 }
 
 .step h3 {
+  color: #024e76;
+  font-size: 46px;
   flex: 1 30%;
 }
 
@@ -181,6 +178,10 @@ section {
   flex-wrap: wrap;
   align-items: center;
   flex: 2 70%;
+}
+
+.step-text {
+  flex: 12;
 }
 
 .step-text p {
@@ -197,10 +198,6 @@ section {
 .step-img {
   flex: 1 12%;
   margin-right: 20px;
-}
-
-.step-text {
-  flex: 12;
 }
 
 .step-img img {
