@@ -11,6 +11,6 @@ A website that offers fitness training services.
 https://mimi5930.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by [your name]
+Made with ❤️ by Michael Miller
 
 ### ©️2019 Run Buddy, Inc 
